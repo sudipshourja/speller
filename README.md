@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This lab report documents the development of a spell-checking program, "Speller," leveraging the efficiency of hash tables. The project aims to implement a high-performance spell checker with optimized loading, checking, and unloading processes. The report details the methodologies employed, the impact of hash table size on performance, and the achieved efficiency.
+This project is a development of a spell-checking program, "Speller," leveraging the efficiency of hash tables. The project aims to implement a high-performance spell checker with optimized loading, checking, and unloading processes. The report details the methodologies employed, the impact of hash table size on performance, and the achieved efficiency.
 
 ## 1. Introduction
 
@@ -67,17 +67,3 @@ The Speller project successfully achieves an efficient spell checker through the
 ## 6. Acknowledgments
 
 We extend our gratitude to the course instructors for their guidance and support. Special thanks to online resources that contributed to the understanding of hash table implementations.
-
-## 7. Appendix
-
-### 7.1 Code Snippets
-
-- Code snippets for `dictionary.h`, `dictionary.c`, and `speller.c` are included in the previous sections.
-
-### 7.2 Performance Metrics
-
-Detailed performance metrics for load, check, and unload processes at different hash table sizes.
-
----
-
-Feel free to tailor this structure based on your specific requirements or additional information you'd like to include. If you have any specific requests or need further assistance, feel free to let me know!
