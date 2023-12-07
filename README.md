@@ -1,7 +1,3 @@
-Certainly! Here's another version of the lab report:
-
----
-
 # Lab Report: Enhancing a Spell Checker using Hash Tables
 
 ## Abstract
