@@ -1,4 +1,4 @@
-# Lab Report: Enhancing a Spell Checker using Hash Tables
+# Enhancing a Spell Checker using Hash Tables
 
 ## Abstract
 
